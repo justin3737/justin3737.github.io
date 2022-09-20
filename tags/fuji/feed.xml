@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>CHASING LIGHTS AND SHADOWS</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog created with Next.js and Tailwind.css</description>
+      <language>zh-TW</language>
+      <managingEditor>juns3700@gmail.com (Justin)</managingEditor>
+      <webMaster>juns3700@gmail.com (Justin)</webMaster>
+      <lastBuildDate>Wed, 10 Mar 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/fuji/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/mountainholic/mountainholic-1</guid>
+    <title>Mountainholic Part I - 登山初心</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/mountainholic/mountainholic-1</link>
+    <description>都怪那一年同學揪我上雪山跨年，走著走著就下起雪來，一步一步踩在雪地上，呼吸著寒冷的空氣，這世界彷彿靜止了…</description>
+    <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
+    <author>juns3700@gmail.com (Justin)</author>
+    <category>mountain</category><category>fuji</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/mountainholic/mountainholic-2</guid>
+    <title>Mountainholic Part II - 我的百岳紀錄</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/mountainholic/mountainholic-2</link>
+    <description>我所爬過的百岳目前40座，下列表格如果已重複爬的百岳沒有列入...</description>
+    <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+    <author>juns3700@gmail.com (Justin)</author>
+    <category>mountain</category><category>fuji</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/mountainholic/mountainholic-3</guid>
+    <title>Mountainholic Part III - 在山上游牧</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/mountainholic/mountainholic-3</link>
+    <description>能高安東軍這一段有無數個高山湖泊，我們在湖邊煮食看日落…</description>
+    <pubDate>Sat, 12 Mar 2022 00:00:00 GMT</pubDate>
+    <author>juns3700@gmail.com (Justin)</author>
+    <category>mountain</category><category>fuji</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/x70/x70-light</guid>
+    <title>X70 星芒測試</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/x70/x70-light</link>
+    <description>F11 ~ F16 左右感覺會是比較漂亮海膽刺星芒, 我個人最喜歡F16 的星芒</description>
+    <pubDate>Mon, 08 Aug 2016 00:00:00 GMT</pubDate>
+    <author>juns3700@gmail.com (Justin)</author>
+    <category>photography</category><category>x70</category><category>fuji</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/x70/x70-xt1</guid>
+    <title>X70 與 XT1 - 初見面 南方澳漁港日出不專業測試</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/x70/x70-xt1</link>
+    <description>男人的防潮箱永遠都少一顆鏡頭</description>
+    <pubDate>Sat, 06 Aug 2016 00:00:00 GMT</pubDate>
+    <author>juns3700@gmail.com (Justin)</author>
+    <category>photography</category><category>x70</category><category>xt1</category><category>fuji</category>
+  </item>
+
+    </channel>
+  </rss>

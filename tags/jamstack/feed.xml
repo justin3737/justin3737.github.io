@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>CHASING LIGHTS AND SHADOWS</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog created with Next.js and Tailwind.css</description>
+      <language>zh-TW</language>
+      <managingEditor>juns3700@gmail.com (Justin)</managingEditor>
+      <webMaster>juns3700@gmail.com (Justin)</webMaster>
+      <lastBuildDate>Mon, 28 Mar 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/jamstack/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/learn-mongodb/mongodb-1</guid>
+    <title>MongoDB學習筆記 - 安裝啟動與GUI軟體</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/learn-mongodb/mongodb-1</link>
+    <description>這裡記錄了使用MongoDB作為資料庫，與雲端MongoDB Atlas操作記錄，在Jamstack的時代，Mongodb是非常普遍且主流的做法之一。</description>
+    <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+    <author>juns3700@gmail.com (Justin)</author>
+    <category>mongodb</category><category>js</category><category>node.js</category><category>javascript</category><category>back-end</category><category>後端</category><category>database</category><category>db</category><category>Jamstack</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/learn-mongodb/mongodb-2</guid>
+    <title>MongoDB學習筆記 - 註冊帳號，並申請MongoDB Atlas雲端主機服務流程</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/learn-mongodb/mongodb-2</link>
+    <description>這裡記錄了使用MongoDB作為資料庫，與雲端MongoDB Atlas操作記錄，在Jamstack的時代，Mongodb是非常普遍且主流的做法之一。</description>
+    <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+    <author>juns3700@gmail.com (Justin)</author>
+    <category>mongodb</category><category>js</category><category>node.js</category><category>javascript</category><category>back-end</category><category>後端</category><category>database</category><category>db</category><category>Jamstack</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/learn-mongodb/mongodb-3</guid>
+    <title>MongoDB學習筆記 - MongoDB Shell CRUD語法</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/learn-mongodb/mongodb-3</link>
+    <description>這裡記錄了使用MongoDB作為資料庫，與雲端MongoDB Atlas操作記錄，在Jamstack的時代，Mongodb是非常普遍且主流的做法之一。</description>
+    <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+    <author>juns3700@gmail.com (Justin)</author>
+    <category>mongodb</category><category>js</category><category>node.js</category><category>javascript</category><category>back-end</category><category>後端</category><category>database</category><category>db</category><category>Jamstack</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/learn-mongodb/mongodb-4</guid>
+    <title>MongoDB學習筆記 - MongoDB Shell 搜尋語法</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/learn-mongodb/mongodb-4</link>
+    <description>這裡記錄了使用MongoDB作為資料庫，與雲端MongoDB Atlas操作記錄，在Jamstack的時代，Mongodb是非常普遍且主流的做法之一。</description>
+    <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+    <author>juns3700@gmail.com (Justin)</author>
+    <category>mongodb</category><category>js</category><category>node.js</category><category>javascript</category><category>back-end</category><category>後端</category><category>database</category><category>db</category><category>Jamstack</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>CHASING LIGHTS AND SHADOWS</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog created with Next.js and Tailwind.css</description>
+      <language>zh-TW</language>
+      <managingEditor>juns3700@gmail.com (Justin)</managingEditor>
+      <webMaster>juns3700@gmail.com (Justin)</webMaster>
+      <lastBuildDate>Sat, 06 Aug 2016 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/xt1/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/x70/x70-xt1</guid>
+    <title>X70 與 XT1 - 初見面 南方澳漁港日出不專業測試</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/x70/x70-xt1</link>
+    <description>男人的防潮箱永遠都少一顆鏡頭</description>
+    <pubDate>Sat, 06 Aug 2016 00:00:00 GMT</pubDate>
+    <author>juns3700@gmail.com (Justin)</author>
+    <category>photography</category><category>x70</category><category>xt1</category><category>fuji</category>
+  </item>
+
+    </channel>
+  </rss>
